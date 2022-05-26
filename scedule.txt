@@ -1,0 +1,3 @@
+c46- spaning obsticles 
+c47 - seting life
+c48 - GameOver

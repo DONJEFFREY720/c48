@@ -1,0 +1,14 @@
+@font-face {
+  font-family: COMIC;
+  src: url(\images\COMIC.TTF);
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
